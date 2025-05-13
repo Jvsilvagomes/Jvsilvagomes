@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, meu nome é João Victor</h1>
-<h3 align="center">Estudante de Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Programação | atualmento o foco está em JavaScript.</h3>
+<h3 align="center">Estudante de Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Programação | atualmento o foco está em JavaScript, mas estou aprendendo outras linguagems como o phyton!.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
