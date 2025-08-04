@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o João Victor!
 
-Meu nome é Murilo João Victor, tenho 16 anos e sou estudante do curso Técnico em Desenvolvimento de Sistemas 1TDS1 no SENAI Valinhos.
+Meu nome é João Victor, tenho 16 anos e sou estudante do curso Técnico em Desenvolvimento de Sistemas 1TDS1 no SENAI Valinhos.
 
 ---
 
