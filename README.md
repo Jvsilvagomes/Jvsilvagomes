@@ -19,6 +19,10 @@ Meu nome é João Victor, tenho 16 anos e sou estudante do curso Técnico em Des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
 </p>
 
+📊 status
+
+![CiaoCiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvsilvagomes&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 📫 Contato
