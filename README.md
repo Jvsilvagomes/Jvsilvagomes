@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o João Victor!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+Desenvolvimento+de+Sistemas;Apaixonado+por+tecnologia+e+inovação;Sempre+aprendendo+algo+novo!👨‍💻" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧑‍💻 Sobre mim
@@ -36,9 +32,6 @@ Sou apaixonado por tecnologia, programação e tudo que envolve inovação digit
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvsilvagomes&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jvsilvagomes&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</div>
 
 ---
 
