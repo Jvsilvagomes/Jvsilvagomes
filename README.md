@@ -32,26 +32,20 @@ Sou apaixonado por tecnologia e programação. Estou construindo minha base téc
 
 ---
 
-## 🚀 Portifólio pessoal
+## 🚀 Portifólio Pessoal
 
-<table>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </div>
-      <p align="center">
-        Meu site pessoal onde apresento minha trajetória, habilidades e projetos.
-        <br />
-        <a href="https://github.com/Jvsilvagomes/portifolio-Joao.git"><b>Repositório</b></a> | <a href="https://portifolio-joao-ten.vercel.app/"><b>Demonstração</b></a>
-      </p>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  </p>
+  <p>
+    Meu site pessoal onde apresento minha trajetória, habilidades e projetos.
+    <br />
+    <a href="https://github.com/Jvsilvagomes/portifolio-Joao.git"><b>Repositório</b></a> | <a href="https://portifolio-joao-ten.vercel.app/"><b>Demonstração</b></a>
+  </p>
+</div>
 
 ---
 
@@ -67,7 +61,7 @@ Sou apaixonado por tecnologia e programação. Estou construindo minha base téc
 ## 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="mailto:j@gmail.com">
+  <a href="jvsilva0611@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-441799349/">
