@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Meu nome é **João Victor**, tenho 16 anos e sou aluno do curso **Técnico em Desenvolvimento de Sistemas (1TDS1)** no **SENAI Valinhos**.  
+Olá! Meu nome é **João Victor**, tenho 17 anos e sou aluno do curso **Técnico em Desenvolvimento de Sistemas (2TDS1)** no **SENAI Valinhos**.  
 
 Sou apaixonado por tecnologia e programação. Estou construindo minha base técnica com foco em transformar ideias em soluções digitais. Atualmente estou focado em lógica de programação e tecnologias Web.
 
