@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia e programação. Estou construindo minha base téc
 
 ### ⚙️ Backend & Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,sqlite" />
+ <img src="https://skillicons.dev/icons?i=nodejs,postgres" />
 </p>
 
 ### 🔧 Ferramentas & OS
