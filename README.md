@@ -26,8 +26,8 @@ Sou apaixonado por tecnologia, programação e tudo que envolve inovação digit
 ## 📊 GitHub Status
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jvsilvagomes&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="João Victor's GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvsilvagomes&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jvsilvagomes&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="João Victor's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jvsilvagomes&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 ---
