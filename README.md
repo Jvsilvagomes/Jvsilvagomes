@@ -1,29 +1,61 @@
 <h1 align="center">👋 Olá, eu sou o João Victor!</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Estudante-blue?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento_de_Sistemas-green?style=for-the-badge" alt="Foco">
+</p>
+
 ## 🧑‍💻 Sobre mim
 
-Olá! Meu nome é **João Victor**, tenho 16 anos e atualmente estou cursando **Técnico em Desenvolvimento de Sistemas (1TDS1)** no **SENAI Valinhos**.  
-Sou apaixonado por tecnologia, programação e tudo que envolve inovação digital. Estou em constante aprendizado e sempre buscando evoluir como desenvolvedor.
+Olá! Meu nome é **João Victor**, tenho 16 anos e sou aluno do curso **Técnico em Desenvolvimento de Sistemas (1TDS1)** no **SENAI Valinhos**.  
+
+Sou apaixonado por tecnologia e programação. Estou construindo minha base técnica com foco em transformar ideias em soluções digitais. Atualmente estou focado em lógica de programação e tecnologias Web.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas que uso
+## 🛠️ Tecnologias e Ferramentas
 
+### 🌐 Frontend & Scripting
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,sqlite" />
+</p>
+
+### 🔧 Ferramentas & OS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,github" />
 </p>
 
 ---
 
-## 📊 GitHub Status
+## 🚀 Portifólio pessoal
+
+<table>
+  <tr>
+    <td width="50%">
+      <div align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      </div>
+      <p align="center">
+        Meu site pessoal onde apresento minha trajetória, habilidades e projetos.
+        <br />
+        <a href="https://github.com/Jvsilvagomes/portifolio-Joao.git"><b>Repositório</b></a> | <a href="https://portifolio-joao-ten.vercel.app/"><b>Demonstração</b></a>
+      </p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jvsilvagomes&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="João Victor's GitHub stats"/>
@@ -32,18 +64,17 @@ Sou apaixonado por tecnologia, programação e tudo que envolve inovação digit
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Conecte-se comigo
 
 <p align="left">
-  <a href="mailto:j@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail"/>
+  <a href="mailto:j@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-441799349/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-441799349/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
----
-
-<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/> 
+</p>
